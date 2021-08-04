@@ -1,5 +1,5 @@
-# AWS SNS to Twitter
-Publishes AWS SNS messages to the Twitter account of your choosing using AWS Lambda
+# AWS SNS to Twitter Lambda
+Publishes AWS Simple Notification Service messages to the Twitter account of your choosing using AWS Lambda
 
 ## Requirements
 - Python 3.8.x
